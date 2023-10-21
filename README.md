@@ -4,7 +4,7 @@
 
 Relevant technical literature related to the problem
 
-1) Language used: pyton3
+1) Language used: python3
  
 2) tool used: Anaconda – jupyter Notebook – Python R enabled
 
